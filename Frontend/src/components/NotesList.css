@@ -1,0 +1,50 @@
+.notes-list {
+  margin-top: 24px;
+}
+.note-item {
+  border: 1px solid #dfe6e9;
+  border-radius: 6px;
+  padding: 16px;
+  margin-bottom: 16px;
+  background: #fff;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.04);
+  transition: box-shadow 0.2s;
+}
+.note-item:hover {
+  box-shadow: 0 2px 8px rgba(0,0,0,0.10);
+}
+.note-item h3 {
+  margin: 0 0 8px 0;
+  font-size: 1.1rem;
+  color: #2d3436;
+}
+.note-item p {
+  margin: 0 0 8px 0;
+  color: #636e72;
+}
+.note-item small {
+  color: #888;
+}
+.note-item .note-actions {
+  margin-top: 8px;
+}
+.note-item button {
+  background: #0984e3;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  padding: 6px 14px;
+  font-size: 0.95rem;
+  cursor: pointer;
+  margin-right: 8px;
+  transition: background 0.2s;
+}
+.note-item button:hover {
+  background: #74b9ff;
+}
+.note-item button:last-child {
+  background: #d63031;
+}
+.note-item button:last-child:hover {
+  background: #b71c1c;
+}
