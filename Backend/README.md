@@ -5,7 +5,6 @@ This is the backend for the Team Notes Manager app. It uses Node.js, Express, Po
 ## Features
 - REST API for notes (CRUD)
 - PostgreSQL database
-- TypeORM ORM
 - Environment variable configuration via .env
 
 ## Setup
