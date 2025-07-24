@@ -1,6 +1,6 @@
 # Team Notes Manager Backend
 
-This is the backend for the Team Notes Manager app. It uses Node.js, Express, PostgreSQL, and TypeORM for database operations.
+This is the backend for the Team Notes Manager app. It uses Node.js, Express and PostgreSQL for database operations.
 
 ## Features
 - REST API for notes (CRUD)
